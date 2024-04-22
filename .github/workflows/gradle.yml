@@ -29,6 +29,4 @@ jobs:
         with:
           name: app-debug.apk
           path: app/build/outputs/apk/debug/app-debug.apk
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+
